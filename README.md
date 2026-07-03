@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0169-majority-element) |
 ## Math
 |  |
 | ------- |
@@ -88,9 +90,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0169-majority-element) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
