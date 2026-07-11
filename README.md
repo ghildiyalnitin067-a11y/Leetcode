@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0066-plus-one) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Greedy
 |  |
