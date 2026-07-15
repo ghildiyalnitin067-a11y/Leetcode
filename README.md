@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0509-fibonacci-number) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Linked List
 |  |
 | ------- |
@@ -203,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0493-reverse-pairs) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
