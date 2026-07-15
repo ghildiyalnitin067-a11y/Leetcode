@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Hash Table
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0509-fibonacci-number) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Linked List
 |  |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0509-fibonacci-number) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Simulation
 |  |
 | ------- |
@@ -207,5 +210,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
