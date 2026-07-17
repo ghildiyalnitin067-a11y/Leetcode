@@ -9,7 +9,6 @@ public:
             if (nums[mid] == target)
                 return true;
 
-            // Handle duplicates
             if (nums[low] == nums[mid] && nums[mid] == nums[high]) {
                 low++;
                 high--;
