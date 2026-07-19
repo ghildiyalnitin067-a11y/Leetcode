@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0509-fibonacci-number) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0258-add-digits) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Union-Find
 |  |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
