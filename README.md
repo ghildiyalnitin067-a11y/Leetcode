@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0509-fibonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3536-maximum-product-of-two-digits](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Linked List
 |  |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [3536-maximum-product-of-two-digits](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Prefix Sum
 |  |
 | ------- |
