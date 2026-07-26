@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0912-sort-an-array) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3536-maximum-product-of-two-digits](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0389-find-the-difference) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
