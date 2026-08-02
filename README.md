@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3536-maximum-product-of-two-digits](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0877-stone-game) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Simulation
 |  |
@@ -318,4 +321,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
