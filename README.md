@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [3310-remove-methods-from-project](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -329,4 +330,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/1406-stone-game-iii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/3310-remove-methods-from-project) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
