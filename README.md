@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0389-find-the-difference) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Two Pointers
 |  |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Stack
 |  |
 | ------- |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Sliding Window
 |  |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/1406-stone-game-iii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Simulation
 |  |
