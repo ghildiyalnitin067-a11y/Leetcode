@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0389-find-the-difference) |
+| [0796-rotate-string](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0796-rotate-string) |
 ## Bit Manipulation
 |  |
 | ------- |
