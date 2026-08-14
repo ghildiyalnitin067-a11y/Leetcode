@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1929-concatenation-of-array](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Greedy
 |  |
 | ------- |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/3731-find-missing-elements) |
