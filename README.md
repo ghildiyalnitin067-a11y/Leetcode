@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0389-find-the-difference) |
 | [0796-rotate-string](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/1021-remove-outermost-parentheses) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -416,4 +419,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
