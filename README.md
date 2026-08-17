@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/1539-kth-missing-positive-number) |
+| [1563-stone-game-v](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/1563-stone-game-v) |
 | [1748-sum-of-unique-elements](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/1563-stone-game-v) |
 | [1903-largest-odd-number-in-string](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/2029-stone-game-ix) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Simulation
@@ -395,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/2029-stone-game-ix) |
 ## Breadth-First Search
 |  |
