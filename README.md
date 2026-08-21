@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/3731-find-missing-elements) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/2029-stone-game-ix) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0389-find-the-difference) |
 | [1386-cinema-seat-allocation](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/1386-cinema-seat-allocation) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Binary Search
 |  |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Greedy
 |  |
 | ------- |
@@ -370,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -445,4 +450,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/2029-stone-game-ix) |
+## Combinatorics
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 <!---LeetCode Topics End-->
