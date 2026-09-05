@@ -1,0 +1,39 @@
+class Solution {
+public:
+    int myAtoi(string s) {
+    int i = 0;
+    int sign = 1;
+    long long value = 0;
+
+    while (i < s.size() && s[i] == ' ')
+        i++;
+
+    if (i < s.size() && s[i] == '-') {
+        sign = -1;
+        i++;
+    }
+    else if (i < s.size() && s[i] == '+') {
+        i++;
+    }
+
+    while (i < s.size() && s[i] >= '0' && s[i] <= '9') {
+        int digit = s[i] - '0';
+
+        if (value > 2147483647)
+            break;
+
+        value = value * 10 + digit;
+        i++;
+    }
+
+    value *= sign;
+
+    if (value > 2147483647)
+        return 2147483647;
+
+    if (value < -2147483648LL)
+        return -2147483648;
+
+    return value;
+}
+};
