@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0342-power-of-four) |
+| [0415-add-strings](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0415-add-strings) |
 | [0486-predict-the-winner](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0389-find-the-difference) |
+| [0415-add-strings](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0940-distinct-subsequences-ii) |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0415-add-strings) |
 | [1260-shift-2d-grid](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1929-concatenation-of-array](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
