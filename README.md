@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0682-baseball-game](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0877-stone-game) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0020-valid-parentheses) |
+| [0682-baseball-game](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0682-baseball-game) |
 | [1021-remove-outermost-parentheses](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0415-add-strings) |
+| [0682-baseball-game](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/0682-baseball-game) |
 | [1260-shift-2d-grid](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1929-concatenation-of-array](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ghildiyalnitin067-a11y/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
